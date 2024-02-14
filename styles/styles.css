@@ -5,5 +5,14 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: url("/luxuryprueba/assets/aurora-kreativ-UN4cs4zNCYo-unsplash.jpg") ;
+    background-image: url("../assets/aurora-kreativ-UN4cs4zNCYo-unsplash.jpg") ;
+    background-size: cover;
+}
+
+.bannerInfo{
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
 }
